@@ -1,11 +1,11 @@
 
 # § Set the source path (eg. C:\...\obsidian\vault-name) :
-$source = "C:\...\obsidian\vault-name"
+$source = "C:\..."
 
 # § Set the destination path (where source content will be copied to) :
 $destination = "C:\..."
 
-# § Oldest copy will be deleted, when the number of existing copies is greater than this value :
+# § Oldest copy will be deleted, when the number of existing copies is greater than or equal to this value :
 $maxCopies = 20
 
 function Copy-With-DateRotation {
