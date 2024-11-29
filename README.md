@@ -39,7 +39,7 @@ $maxCopies = 20
 
 This is my first PowerShell project, and I did it with a lot of help from an LLM. So I can't guarantee that the code is flawless. Actually i can guarantee that it isn't.
 
-*Contributions are welcome, as well as any feedback!*
+*Contributions are welcome, as well as any feedback!* Though it's not likely that I will spend much more time on this.
 
 Obvious possible improvements include:
 
